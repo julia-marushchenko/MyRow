@@ -1,10 +1,14 @@
-// Java program to print rows like this
-// Input: n = 1, Output: 10 9 8 7 6 5 4 3 2 1
-// Input n = 2, Output: 20 18 16 14 12 10 8 6 4 2
-// Condition 1 <= n<= 1000
 package com.rows;
-
-//Main class
+/**
+ * Java program to print rows like this
+ *Input: n = 1, Output: 10 9 8 7 6 5 4 3 2 1
+ * Input n = 2, Output: 20 18 16 14 12 10 8 6 4 2
+ * Condition 1 <= n<= 1000
+ *
+ * @autor Julia Marushchenko
+ * @version 1.1
+ * @since 2025-04-27
+ */
 public class Main {
 
     // Method to print a row of numbers in reverse order
