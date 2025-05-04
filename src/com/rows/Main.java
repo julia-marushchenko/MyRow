@@ -1,4 +1,5 @@
 package com.rows;
+
 /**
  * Java program to print rows like this
  * Input: n = 1, Output: 10 9 8 7 6 5 4 3 2 1
