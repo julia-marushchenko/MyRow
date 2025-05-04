@@ -7,7 +7,7 @@ package com.rows;
  *
  * @autor Julia Marushchenko
  * @version 1.1
- * @since 2025-04-27
+ * @since 2025-05-04
  */
 public class Main {
 
